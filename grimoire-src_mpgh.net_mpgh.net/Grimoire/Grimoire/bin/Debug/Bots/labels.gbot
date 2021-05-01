@@ -1,0 +1,72 @@
+{
+  "Version": "3.4.0",
+  "Commands": [
+    {
+      "Delay": 2000
+    },
+    {
+      "Delay": 2000
+    },
+    {
+      "Delay": 2000
+    },
+    {
+      "Name": "big delay"
+    },
+    {
+      "Delay": 9000
+    },
+    {
+      "Delay": 100
+    },
+    {
+      "Delay": 100
+    },
+    {
+      "Delay": 100
+    },
+    {
+      "Delay": 100
+    },
+    {
+      "Delay": 100
+    },
+    {
+      "Label": "big delay"
+    },
+    {
+      "Delay": 100
+    },
+    {
+      "Delay": 100
+    },
+    {
+      "Delay": 100
+    },
+    {
+      "Delay": 100
+    }
+  ],
+  "Skills": [],
+  "Quests": [],
+  "Author": "Author",
+  "Description": "Description",
+  "Boosts": [],
+  "Drops": [],
+  "Server": {
+    "bOnline": 1,
+    "sName": "Twilly",
+    "iPort": 5588,
+    "sIP": "75.126.77.15"
+  },
+  "SkillDelay": 500,
+  "ExitCombatBeforeRest": true,
+  "ExitCombatBeforeQuest": true,
+  "EnablePickup": true,
+  "EnableRejection": true,
+  "RelogDelay": 5000,
+  "BotDelay": 1000,
+  "SkipDelayIndexIf": true,
+  "WalkSpeed": 8,
+  "NotifyUponDrop": []
+}

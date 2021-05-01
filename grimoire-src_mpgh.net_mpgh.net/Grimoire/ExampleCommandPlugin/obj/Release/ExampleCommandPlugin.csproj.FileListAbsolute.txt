@@ -1,0 +1,16 @@
+A:\Code\Projects\Bitbucket\Grimoire\ExampleCommandPlugin\bin\Release\ExampleCommandPlugin.dll
+A:\Code\Projects\Bitbucket\Grimoire\ExampleCommandPlugin\bin\Release\ExampleCommandPlugin.pdb
+A:\Code\Projects\Bitbucket\Grimoire\ExampleCommandPlugin\obj\Release\ExampleCommandPlugin.csprojResolveAssemblyReference.cache
+A:\Code\Projects\Bitbucket\Grimoire\ExampleCommandPlugin\obj\Release\ExampleCommandPlugin.Main.resources
+A:\Code\Projects\Bitbucket\Grimoire\ExampleCommandPlugin\obj\Release\ExampleCommandPlugin.csproj.GenerateResource.Cache
+A:\Code\Projects\Bitbucket\Grimoire\ExampleCommandPlugin\obj\Release\ExampleCommandPlugin.csproj.CoreCompileInputs.cache
+A:\Code\Projects\Bitbucket\Grimoire\ExampleCommandPlugin\obj\Release\ExampleCommandPlugin.dll
+A:\Code\Projects\Bitbucket\Grimoire\ExampleCommandPlugin\obj\Release\ExampleCommandPlugin.pdb
+A:\Code\Projects\GitHub\Grimoire\ExampleCommandPlugin\bin\Release\ExampleCommandPlugin.dll
+A:\Code\Projects\GitHub\Grimoire\ExampleCommandPlugin\bin\Release\ExampleCommandPlugin.pdb
+A:\Code\Projects\GitHub\Grimoire\ExampleCommandPlugin\obj\Release\ExampleCommandPlugin.csprojResolveAssemblyReference.cache
+A:\Code\Projects\GitHub\Grimoire\ExampleCommandPlugin\obj\Release\ExampleCommandPlugin.Main.resources
+A:\Code\Projects\GitHub\Grimoire\ExampleCommandPlugin\obj\Release\ExampleCommandPlugin.csproj.GenerateResource.Cache
+A:\Code\Projects\GitHub\Grimoire\ExampleCommandPlugin\obj\Release\ExampleCommandPlugin.csproj.CoreCompileInputs.cache
+A:\Code\Projects\GitHub\Grimoire\ExampleCommandPlugin\obj\Release\ExampleCommandPlugin.dll
+A:\Code\Projects\GitHub\Grimoire\ExampleCommandPlugin\obj\Release\ExampleCommandPlugin.pdb
